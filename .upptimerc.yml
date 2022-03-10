@@ -16,6 +16,7 @@ sites:
 status-website:
   cname: status.discordsrv.com
   logoUrl: https://lol.scarsz.me/AiKvTS/Logo-filled-stroke.png
+  theme: night
   name: Status
   navbar:
     - title: Status
