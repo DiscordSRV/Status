@@ -2,8 +2,6 @@ owner: DiscordSRV
 repo: Status
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Downloads
     url: https://get.discordsrv.com
   - name: Documentation
