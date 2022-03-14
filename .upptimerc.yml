@@ -12,14 +12,13 @@ sites:
     url: https://config.discordsrv.com
   - name: Heads
     url: https://heads.discordsrv.com
-
   - name: Discord REST
     url: https://discord.com/api/users/@me
     expectedStatusCodes:
       - 401
   - name: Discord Gateway
-    check: "ws"
     url: wss://gateway.discord.gg
+    check: "ws"
 
 status-website:
   cname: status.discordsrv.com
