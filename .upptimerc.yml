@@ -17,15 +17,16 @@ sites:
     url: https://discord.com/api/users/@me
     expectedStatusCodes:
       - 401
-#  - name: Discord Gateway
-#     url: https://gateway.discord.gg
-#     headers:
-#       - "Connection: Upgrade"
-#       - "Upgrade: websocket"
-#       - "Sec-WebSocket-Version: 13"
-#       - "Sec-WebSocket-Key: MDAwMDAwMDAwMDAwMDAwMA=="
-#     expectedStatusCodes:
-#       - 101
+  - name: Discord Gateway
+    check: ws
+    url: ws://gateway.discord.gg
+    headers:
+      - "Connection: Upgrade"
+      - "Upgrade: websocket"
+      - "Sec-WebSocket-Version: 13"
+      - "Sec-WebSocket-Key: MDAwMDAwMDAwMDAwMDAwMA=="
+    expectedStatusCodes:
+      - 101
 
 status-website:
   cname: status.discordsrv.com
