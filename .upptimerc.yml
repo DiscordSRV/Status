@@ -18,8 +18,8 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Discord Gateway
-    check: wss
-    url: ws://gateway.discord.gg
+    check: ws
+    url: wss://gateway.discord.gg
     headers:
       - "Connection: Upgrade"
       - "Upgrade: websocket"
