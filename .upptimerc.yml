@@ -19,7 +19,7 @@ sites:
       - 401
   - name: Discord Gateway
     check: ws
-    url: ws://gateway.discord.gg
+    url: https://gateway.discord.gg
 
 status-website:
   cname: status.discordsrv.com
