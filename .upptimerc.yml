@@ -17,8 +17,8 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Discord Gateway
-    url: wss://gateway.discord.gg
-    check: "ws"
+    url: gateway.discord.gg
+    check: "tcp-ping"
 
 status-website:
   cname: status.discordsrv.com
