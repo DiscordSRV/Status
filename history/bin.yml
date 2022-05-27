@@ -1,7 +1,7 @@
 url: https://bin.scarsz.me
-status: up
-code: 200
-responseTime: 397
-lastUpdated: 2022-05-26T23:08:43.412Z
+status: down
+code: 503
+responseTime: 29032
+lastUpdated: 2022-05-27T07:32:56.991Z
 startTime: Thu Mar 10 2022 12:18:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
