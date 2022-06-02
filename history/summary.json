@@ -76,18 +76,20 @@
     "url": "https://heads.discordsrv.com",
     "icon": "https://favicons.githubusercontent.com/heads.discordsrv.com",
     "slug": "heads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 576,
-    "timeWeek": 611,
-    "timeMonth": 648,
-    "timeYear": 615,
-    "dailyMinutesDown": {}
+    "time": 612,
+    "timeDay": 423,
+    "timeWeek": 568,
+    "timeMonth": 636,
+    "timeYear": 612,
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "Discord REST",
