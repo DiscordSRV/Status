@@ -4,10 +4,10 @@
     "url": "https://get.discordsrv.com",
     "icon": "https://favicons.githubusercontent.com/get.discordsrv.com",
     "slug": "downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 811,
@@ -15,7 +15,9 @@
     "timeWeek": 915,
     "timeMonth": 868,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 2
+    }
   },
   {
     "name": "Documentation",
@@ -40,10 +42,10 @@
     "url": "https://bin.scarsz.me",
     "icon": "https://favicons.githubusercontent.com/bin.scarsz.me",
     "slug": "bin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
@@ -51,17 +53,19 @@
     "timeWeek": 604,
     "timeMonth": 1500,
     "timeYear": 852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Config redirections",
     "url": "https://config.discordsrv.com",
     "icon": "https://favicons.githubusercontent.com/config.discordsrv.com",
     "slug": "config-redirections",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -69,16 +73,18 @@
     "timeWeek": 165,
     "timeMonth": 204,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Heads",
     "url": "https://heads.discordsrv.com",
     "icon": "https://favicons.githubusercontent.com/heads.discordsrv.com",
     "slug": "heads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,25 +93,29 @@
     "timeWeek": 558,
     "timeMonth": 582,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Discord REST",
     "url": "https://discord.com/api/users/@me",
     "icon": "https://favicons.githubusercontent.com/discord.com",
     "slug": "discord-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 153,
-    "timeWeek": 123,
-    "timeMonth": 112,
-    "timeYear": 115,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 105,
+    "timeWeek": 115,
+    "timeMonth": 110,
+    "timeYear": 114,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Discord Gateway",
