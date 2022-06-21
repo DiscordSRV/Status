@@ -4,11 +4,11 @@
     "url": "https://get.discordsrv.com",
     "icon": "https://favicons.githubusercontent.com/get.discordsrv.com",
     "slug": "downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 816,
     "timeDay": 1631,
@@ -16,7 +16,7 @@
     "timeMonth": 883,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2022-06-21": 28
+      "2022-06-21": 29
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://bin.scarsz.me",
     "icon": "https://favicons.githubusercontent.com/bin.scarsz.me",
     "slug": "bin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.07%",
+    "uptimeDay": "98.03%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -54,7 +54,7 @@
     "timeMonth": 1488,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2022-06-21": 28
+      "2022-06-21": 29
     }
   },
   {
@@ -62,7 +62,7 @@
     "url": "https://config.discordsrv.com",
     "icon": "https://favicons.githubusercontent.com/config.discordsrv.com",
     "slug": "config-redirections",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.10%",
     "uptimeWeek": "99.73%",
